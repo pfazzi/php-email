@@ -6,7 +6,7 @@ This package contains a PHP class representing an email address as a [value obje
 ## Installation
 Using Composer:
 ```sh
-composer require beberlei/assert
+composer require pfazzi/email
 ```
 
 ## Example usages
