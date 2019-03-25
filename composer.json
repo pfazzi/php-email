@@ -14,6 +14,11 @@
       "email": "info@patrickfazzi.it"
     }
   ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.0.1"
+    }
+  },
   "autoload": {
     "psr-4": {
       "Pfazzi\\Email\\": "src/"
